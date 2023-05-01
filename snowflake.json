@@ -1,0 +1,26 @@
+{
+  "eula": "",
+  "vendor": "Divya",
+  "license": "",
+  "id": "com.Divya.sap.sac.snowflake",
+  "version": "1.0.0",
+  "name": "snowflake SAC",
+  "newInstancePrefix": "snowflakeInSAC",
+  "description": "A custom widget to integrate snowflake in SAC Analytic application",
+  "webcomponents": [
+    {
+      "kind": "main",
+      "tag": "custom-widget",
+      "url": "https://divyapatel1096.github.io/CUSTOM_WIDGET_SNOWFLAKE_SAC/Snowflake.html",
+      "integrity": "",
+      "ignoreIntegrity": true
+    }
+  ],
+  "properties": {
+		
+  },
+  "methods": {
+  },
+  "events": {
+  }
+}
